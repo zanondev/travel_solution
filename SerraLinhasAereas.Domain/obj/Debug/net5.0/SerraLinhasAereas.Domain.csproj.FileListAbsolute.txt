@@ -1,0 +1,60 @@
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\Pichau\Desktop\desktop temp\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\TROPTECH\PROJETOS\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\Pichau\Desktop\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\User\Desktop\Nova pasta\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+C:\Users\User\Desktop\Nova pasta (2)\M2P9_LucasZanonScherolt\SerraLinhasAereas.Solution\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll

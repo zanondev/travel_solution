@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SerraLinhasAereas.Domain": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    },
+    "Profile 2": {
+      "commandName": "Executable",
+      "executablePath": "C:\\TROPTECH\\PROJETOS\\M2P9_SerraLinhasAereas_LucasZanon\\M2P9_SerraLinhasAereas_LucasZanon\\SerraLinhasAereas.Solution\\SerraLinhasAereas.WebAPI\\SerraLinhasAereas.WebAPI.csproj"
+    }
+  }
+}

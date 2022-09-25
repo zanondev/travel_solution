@@ -1,6 +1,6 @@
 # CRUD Clients, Tickets and Travels System!
 
-Simple CRUD system aplicated to a travel solution.
+Simple CRUD system aplicated to a travel company solution.
 
 INSTRUCTIONS:
 1) Execute the queries from DB on SQL SERVER
